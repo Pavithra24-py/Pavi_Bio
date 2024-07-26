@@ -10,13 +10,13 @@
 - **Programming Languages**: HTML| SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
 - **Tools**: Google Looker Studio | Google BigQuery | Excel | Tableau | CMS
 - **Misc**: Git | Github
-- **Marketing**: SEO| Content & Technical Writing| Email Marketing
+- **Marketing**: SEO | Content & Technical Writing| Email Marketing
 
 ## 📚 Projects
 
 - View my Data Analysing projects on [**my website**](https://public.tableau.com/app/profile/pavithra.muniyandi/vizzes). 
 - View my Coding projects on [**Github**](https://github.com/Pavithra24-py).
-- View my Writing projects on[**Sample Works**](https://docs.google.com/document/d/1r4zyzJfFl-QtJWOo6WPM3h8o-Kn2ZpZvc-hjhC4LkRA/edit)
+- View my Writing projects on [**Sample Works**](https://docs.google.com/document/d/1r4zyzJfFl-QtJWOo6WPM3h8o-Kn2ZpZvc-hjhC4LkRA/edit)
 
 
 ## 📫 Connect with Me
