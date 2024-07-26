@@ -1,17 +1,28 @@
-Hi 👋 
-===========================================
+👋 Hi, I’m Pavithra, a data research analyst from India. 
 
-My name is Pavithra.
-I am on a self-taught journey, working full time as a content writer and studying programming in between! Python is my first language and I want to hit the Game Devlopement career before my 30's.
+## 🙋‍♀️ About Me
 
-* 🌍  I'm based in India!
-* ✉️  You can contact me at [vippavithra1998@gmail.com](mailto:vippavithra1998@gmail.com)
+- 📊 I'm currently Working as a data research analyst at [Learn with Leaders](https://learnwithleaders.com/).
+- 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
+- 📐 My degree is in Engineering in Electronics and Communication.
+- ✏ Post 2-3 times on my [LinkedIn](https://www.linkedin.com/in/pavithra-muniyandi-1116b5114/) page. 
 
-### Skills
+## 🛠 Skills
+- **Programming Languages**: HTML | SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
+- **Tools**: Google Looker Studio | Google BigQuery | Excel | Tableau | CMS
+- **Marketing**: SEO, Content & Technical Writing, Email Marketing
+- **Misc**: Github
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+## 📚 Projects
+
+- View my Data Analyst projects on [**my website**](https://public.tableau.com/app/profile/pavithra.muniyandi/vizzes). 
+- View my coding projects on [**Github**](https://github.com/Pavithra24-py).
+- View my Writing projects on [**Sample works**](https://docs.google.com/document/d/1r4zyzJfFl-QtJWOo6WPM3h8o-Kn2ZpZvc-hjhC4LkRA/edit)
+
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/pavithra-muniyandi-1116b5114/)
+- [Email](mailto:vippavithra1998@gmail.com)
+
 
